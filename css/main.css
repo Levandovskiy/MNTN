@@ -312,6 +312,14 @@ text-transform: capitalize;
 }
 .footer-copyright-desc{
 
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.78;
+
+    color: #FFFFFF;
+
 }
 .footer-copyright-terms{
 
