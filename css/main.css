@@ -305,14 +305,11 @@ text-transform: capitalize;
 
 }
 .footer-copyright-logo{
+    margin-bottom: 24px;
 
 }
-.logo{
 
-}
 .footer-copyright-desc{
-
-    font-family: Gilroy;
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
@@ -322,5 +319,10 @@ text-transform: capitalize;
 
 }
 .footer-copyright-terms{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.78;
+    color: rgba(255, 255, 255, 0.5);
+
 
 }
